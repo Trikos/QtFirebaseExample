@@ -76,7 +76,7 @@ Page {
                 spacing: 20
 
                 Label {
-                    text: "Subsriptions"
+                    text: "Subscriptions"
                 }
 
                 Button {
